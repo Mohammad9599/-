@@ -1,3 +1,4 @@
+/* copyright 2022 Naviddev.com */
 
 /*=============== VARIABLES CSS ===============*/
 
@@ -19,7 +20,7 @@
   
   .dark-theme {
     /*=============== dark theme colors  ===============*/
-    --background-primary: hsl(210, 14%, 3%);
+    --background-primary: hsl(218, 23%, 23%);
     --background-secondary: hsl(220, 26%, 14%);
   
     --action-primary: hsl(216, 15%, 52%);
@@ -487,4 +488,3 @@
   .copyright a:hover {
     text-decoration: underline;
   }
-  
